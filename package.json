@@ -1,0 +1,22 @@
+{
+  "name": "twitch-chat-bot",
+  "version": "0.0.1",
+  "description": "Testing chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jwho303/twitch-chat-bot.git"
+  },
+  "author": "Jwho303",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jwho303/twitch-chat-bot/issues"
+  },
+  "homepage": "https://github.com/Jwho303/twitch-chat-bot#readme",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
